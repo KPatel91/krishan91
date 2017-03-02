@@ -118,3 +118,20 @@ p .content .profile-picture {
     padding: 0;
     margin: 0;
 }
+
+.skills-bar {
+    font-size: 0.8em;
+    margin-top: 10px;
+    font-weight: lighter;
+    color: darkslategrey;
+}
+
+footer {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 10px;
+  text-align: center;
+  font-weight: lighter;
+  
+}
